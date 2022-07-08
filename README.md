@@ -1,0 +1,5 @@
+-  Hi, I’m @1CYRED
+-  I’m interested in cgi,programming and mapmaking
+-  I’m currently learning python,go and c++
+-  I’m also learning GIS systems,math,geodesy and earth remote sensing technologies 
+-  Recently started working in 3ds max, blender, illustrator and photoshop
